@@ -1,4 +1,16 @@
 # Retail Superstore Analytics & Customer Segmentation
+📄 Case Study:
+Retail Superstore Analytics & Customer Segmentation
+
+📊 Key Techniques:
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- RFM Analysis
+- K-Means Clustering
+- Customer Segmentation
+
+📈 Dataset Size:
+51,290 retail records
 
 ## Project Overview
 
