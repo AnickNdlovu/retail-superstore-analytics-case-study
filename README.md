@@ -1,50 +1,84 @@
-
 # Retail Superstore Analytics & Customer Segmentation
 
-## Overview
+## Project Overview
 
-This project analyzes a retail sales dataset containing over 51,000 records to identify customer purchasing behavior, segment customers, and generate actionable business recommendations.
+This project analyzes a retail sales dataset containing over 51,000 records to identify customer purchasing behaviour, segment customers, and generate actionable business insights.
 
-## Objectives
+The analysis combines customer analytics, machine learning techniques, and business intelligence approaches to support data-driven decision-making.
 
-- Understand customer behavior
+---
+
+## Business Challenge
+
+The objective was to:
+
+- Understand customer purchasing behaviour
 - Identify high-value customers
-- Detect at-risk customers
-- Generate business insights
-- Support data-driven decision-making
+- Detect customers at risk of churn
+- Improve customer retention strategies
+- Support business growth through analytics
 
-## Techniques Used
+---
+
+## Dataset Summary
+
+- Records: 51,290
+- Columns: 21
+- Data Period: 2011–2014
+- Categories: Furniture, Technology, Office Supplies
+
+---
+
+## Analytical Techniques
 
 - Data Cleaning
+- Data Validation
 - Exploratory Data Analysis (EDA)
 - RFM Analysis
 - K-Means Clustering
 - Customer Segmentation
 - Data Visualization
 
-## Tools
+---
+
+## Tools Used
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Excel
+- Microsoft Excel
 
-## Project Assets
+---
 
-This repository contains:
-- Retail Superstore Analytics Case Study
-- Customer Segmentation Visualizations
-- Dataset Exploration Screenshots
-- Dashboard & Analytics Outputs
+## Key Outcomes
+
+- Identified High Value Customers
+- Identified Loyal Customers
+- Flagged At Risk Customers
+- Developed customer retention recommendations
+- Produced data-driven business insights
+
+---
+
+## Skills Demonstrated
+
+- Data Analysis
+- Customer Analytics
+- Business Intelligence
+- Data Visualization
+- Machine Learning
+- Data Storytelling
+
+---
 
 ## Author
 
 Dineo Ndlovu
 
 LinkedIn:
-linkedin.com/in/dineo-ndlovu29
+https://www.linkedin.com/in/dineo-ndlovu29/
 
 GitHub:
-github.com/AnickNdlovu
+https://github.com/AnickNdlovu
