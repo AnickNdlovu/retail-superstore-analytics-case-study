@@ -84,6 +84,26 @@ The objective was to:
 - Data Storytelling
 
 ---
+## Project Assets
+
+### Case Study Document
+See the full project report in the repository PDF.
+
+### Visualizations Included
+- Customer Segmentation Analysis
+- Dataset Overview
+- Business Insights
+- Customer Analytics
+
+### Key Skills Demonstrated
+- Python
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- RFM Analysis
+- K-Means Clustering
+- Customer Segmentation
+- Business Intelligence
 
 ## Author
 
